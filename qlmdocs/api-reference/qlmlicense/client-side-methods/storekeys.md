@@ -31,7 +31,7 @@ In the Registry, data is stored in:
 On the file system, data is stored in these folders:
 
 * C:\ProgramData\IsolatedStorage\<GUID>
-* C:\Users\<user>\AppData\Local\IsolatedStorage\<GUID>
+* C:\Users\\\<user>\AppData\Local\IsolatedStorage\<GUID>
 
 Example on Windows 10:
 
